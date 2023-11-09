@@ -1,0 +1,15 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.content {
+  margin: 30px;
+}
+
+h1 {
+  font-size: 30px;
+  font-style: oblique;
+  margin: 30px;
+}
+.navbar {
+  text-align: center;
+}
